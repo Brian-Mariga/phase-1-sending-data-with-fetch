@@ -1,30 +1,190 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "48fb",
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "0641",
+      "name": "",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "e58b",
+      "name": "Brian",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "d8be",
+      "name": "Brian ",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "1e74",
+      "name": "Brian MA",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "0f0e",
+      "name": "Brian Mariga",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": "2e03",
+      "name": "Brian Mariga",
+      "email": ".com"
+    },
+    {
+      "id": "f375",
+      "name": "Brian Mariga",
+      "email": "brian.mari.com"
+    },
+    {
+      "id": "d9bc",
+      "name": "Brian Mariga",
+      "email": "brian.mariga.com"
+    },
+    {
+      "id": "841c",
+      "name": "Brian Mariga",
+      "email": "brian.mariga@student.com"
+    },
+    {
+      "id": "6dfa",
+      "name": "Brian Mariga",
+      "email": "brian.mariga@student..com"
+    },
+    {
+      "id": "64eb",
+      "name": "Brian Mariga",
+      "email": "brian.mariga@student.m.com"
+    },
+    {
+      "id": "abd3",
+      "name": "Brian Mariga",
+      "email": "brian.mariga@student.moringa.com"
+    },
+    {
+      "id": "f1da",
+      "name": "Brian Mariga",
+      "email": "brian.mariga@student.moringa.com"
+    },
+    {
+      "id": "1be3",
+      "name": "Brian Mariga",
+      "email": "brian.mariga@student.moringa.com"
+    },
+    {
+      "id": "3f5f",
+      "name": "Brian Mariga",
+      "email": "brian.mariga@student.moringa.com"
+    },
+    {
+      "id": "367b",
+      "name": "Jim",
+      "email": "brian.mariga@student.moringa.com"
+    },
+    {
+      "id": "49e0",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "1fe8",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "c741",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "99fa",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "9d59",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "ad77",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "7aa5",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "b612",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "8e7b",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "e6ae",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "5df7",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "a9e7",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "8f19",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    },
+    {
+      "id": "b202",
+      "name": "Jim",
+      "email": "jim@jim.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
